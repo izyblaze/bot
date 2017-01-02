@@ -4,7 +4,7 @@ const Events = Discordie.Events;
 const client = new Diacordie();
 
 client.connect({
-  token: 'MjY1NDgzMTYxNTg3Mjg2MDE3.C0vyGg.4mtGzJr4bHG1VsU7EuH1VBgck8Y'
+  token: 'MjY1NDk0MjkxNTE2ODgyOTQ0.C0v8WA.X7omsegbBf2xMzHmirF--ljse-8'
 });
 
 client.DIspatcher.on(Event.GATEWAY_READY, e => {
