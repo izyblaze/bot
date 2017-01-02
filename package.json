@@ -4,7 +4,7 @@
     "main": "bot1.js",
     "avatar": null,
     "guild_id": "199737254929760256",
-    "id": "223704706495545344",
+    "id": "265483161587286017",
     "scripts":{
         "test": "nodemon bot1.js"
     },
